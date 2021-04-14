@@ -1,0 +1,45 @@
+@font-face{
+    font-family: IranSans;
+    src: url("/fonts/IRAN Sans Light.ttf");
+    font-weight: 100;
+}
+@font-face{
+    font-family: IranSans;
+    src: url("/fonts/IRAN Sans.ttf");
+    font-weight: 200;
+}
+@font-face{
+    font-family: IranSans;
+    src: url("/fonts/IRAN Sans Medium.ttf");
+    font-weight: 300;
+}
+@font-face{
+    font-family: IranSans;
+    src: url("/fonts/IRAN Sans Bold.ttf");
+    font-weight: 400;
+}
+@font-face{
+    font-family: IRANYekan;
+    src: url("/fonts/IRANYekanWeb Light.woff2");
+    font-weight: 400;
+}
+@font-face{
+    font-family: IRANYekan;
+    src: url("/fonts/IRANYekanWeb.woff2");
+    font-weight: 500;
+}
+@font-face{
+    font-family: IRANYekan;
+    src: url("/fonts/IRANYekanWeb Medium.woff");
+    font-weight: 600;
+}
+@font-face{
+    font-family: IRANYekan;
+    src: url("/fonts/IRANYekanWeb Bold.woff2");
+    font-weight: 800;
+}
+
+
+
+
+
